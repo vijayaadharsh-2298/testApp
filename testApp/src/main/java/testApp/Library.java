@@ -11,5 +11,10 @@ public class Library {
     {
     	String names="Vijay";
     	System.out.println(names);
+    	String sampleVar[]= {"test","Case","Sample"};
+    	for(int i=0;i<2;i++)
+    	{
+    		System.out.println(sampleVar[i]);
+    	}
     }
 }
