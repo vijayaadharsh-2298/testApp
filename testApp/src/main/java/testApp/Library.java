@@ -7,4 +7,9 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
+    public static void main(String agrs[])
+    {
+    	String names="Vijay";
+    	System.out.println(names);
+    }
 }
